@@ -38,15 +38,13 @@ Alfred was built to solve the "productivity paradox"—where users have many too
 - **State Management:** React hooks (`useState`, `useEffect`) for managing application state and API interactions.
 - **Animations:** `motion/react` for smooth transitions between screens.
 
-## Documentation
-
-To assist with design and development, we have included:
-- **Wireframes:** `src/Wireframes.tsx` provides a visual layout guide for the main screens.
-- **User Flows:** `src/UserFlows.tsx` provides an SVG-based representation of the application's user flows, importable into Figma.
-
 ## Getting Started
 
 1. **Clone the repository.**
 2. **Install dependencies:** `npm install`
 3. **Configure Environment:** Ensure `GEMINI_API_KEY` is set in your environment.
 4. **Run the development server:** `npm run dev`
+
+## Credit
+
+Created for "FoundersHack 2026" by Team Chicken Tiki Taka (Kanav, Rohhan, Anhad, Hariesh). Copyright 2026.
