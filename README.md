@@ -6,6 +6,10 @@ Alfred is a sophisticated, AI-powered personal assistant designed to help users 
 
 Alfred was built to solve the "productivity paradox"—where users have many tools but lack a cohesive, intelligent system to manage their daily goals and wellbeing. Alfred acts as a central hub, synthesizing user data to provide actionable advice.
 
+**Youtube Pitch Deck:** https://youtu.be/FNDDRpzQvYw 
+**Devpost Submission:** https://devpost.com/software/meet-alfred?ref_content=my-projects-tab&ref_feature=my_projects
+
+
 ## Key Features
 
 ### 1. AI-Powered Assistant (Alfred)
