@@ -1,0 +1,5 @@
+{
+  "name": "Alfred",
+  "description": "A mobile-first AI assistant that unifies fragmented life data into one calm daily plan.",
+  "requestFramePermissions": ["geolocation"]
+}
